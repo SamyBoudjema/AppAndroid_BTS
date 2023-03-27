@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guidage Parking</string>
+    <string name="etat">Etat</string>
+    <string name="retour">Retour</string>
+    <string name="voir_etat">Voir Etat</string>
+    <string name="numeroplace">NumeroPlace</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
